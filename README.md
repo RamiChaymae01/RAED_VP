@@ -23,7 +23,7 @@ Frame 1 → YOLO
 Frame 2 → YOLO
 Frame 3 → YOLO
 Frame 4 → YOLO
-
+```
 
 RAED-VP uses selective inference:
 ```text
